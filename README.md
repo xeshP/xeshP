@@ -3,6 +3,8 @@
 - Fuzzing with Python, Lua, Greyscript and Java.
 - Find out how things work, get things done!
 
+No mistakes! only happy accidents :)
+
 <!---
 xeshP/xeshP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
